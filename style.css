@@ -35,7 +35,7 @@ main {
   margin: var(--gap);
 display: grid;
 gap: 8px;
-max-width: 60rem;
+max-width: 70rem;
 }
 section {
   padding: 16px 32px;
